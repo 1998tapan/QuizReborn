@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">QuizReborn</string>
+    <string name="TrueButton">True</string>
+    <string name="FalseButton">False</string>
+    <string name="PreviousButton">Previous</string>
+    <string name="NextButton">Next</string>
+    <string name="True_Toast">Correct ! Hogwarts awaits your arrival !!</string>
+    <string name="False_Toast">Uh oh. Something\'s wrong ! Try Mischief Managed</string>
+    <string name="first_question">This is the 1st question !</string>
+
+    <string name="q1">1. Just after Harry Potter\'s parents died at the hands of Lord Voldemort, Harry was sent to live at Hogwarts School of Witchcraft and Wizardry.
+</string>
+    <string name="q2">2. Ron and George Weasley are twins.
+</string>
+    <string name="q3">3. Sirius Black, Harry\'s godfather, is an Animagus and can turn into a big black dog.
+</string>
+    <string name="q4">4. In Harry Potter and the Chamber of Secrets, after many painful rejections, Nearly-Headless Nick is FINALLY allowed in to the Headless Hunt.
+</string>
+    <string name="q5">5. The cry of a fully grown Mandrake can kill you.
+</string>
+    <string name="q6">6. The Dursleys live at 4 Privet Drive.
+</string>
+    <string name="q7">7. Harry Potter\'s wand happens to be the brother (equivalent) of Albus Dumbledore\'s wand.
+</string>
+    <string name="q8">8. The title of the first Harry Potter book is different in England from the name it has in the US.
+</string>
+    <string name="q9">9. Since Harry Potter is the star of his house Quidditch team, it\'s pretty obvious that Harry grew up in a family that was ADDICTED to watching (and playing) Quidditch.
+</string>
+    <string name="q10">10. Professor Dumbledore does not like Bertie Bott\'s Every Flavor Beans.
+</string>
+    <string name="q11">11. The First Character To Die In The Deathly Hallows Part 1 Was Dobby
+</string>
+    <string name="q12">12. Neville Longbottom\'s Greatest Fear Is Snape
+</string>
+    <string name="q13">13. Harry Potter\'s Middle Name Is James
+</string>
+    <string name="q14">14. Igor Karkaroff Put Harry\'s Name In The Goblet Of Fire
+</string>
+    <string name="q15">15. Hermione\'s First Boyfriend Was Cedric Diggory
+</string>
+    <string name="q16">16. Snape\'s Patronus Is A Doe
+</string>
+    <string name="q17">17. Dumbledore\'s Phoenix Is Called Fawkes
+</string>
+    <string name="q18">18. The Basilisk Was One Of Voldermort\'s Horcruxes
+</string>
+    <string name="q19">19. Ron\'s Brother Charlie Married Fleur Delacour
+</string>
+    <string name="q20">20. Norbert Was Hagrid\'s Pet Hippogriff
+</string>
+
+</resources>
